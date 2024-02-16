@@ -8,4 +8,4 @@ scipy
 dlib
 numpy
 opencv-python
-
+gunicorn
